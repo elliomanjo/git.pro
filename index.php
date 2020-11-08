@@ -1,1 +1,1 @@
-This is a test for github. we're trying to push and pull the project files
+This is a test for github. we're trying to push and pull the project files and assets
