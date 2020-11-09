@@ -1,1 +1,1 @@
-This is index file Git in progress, Efforts are being made
+This is index file Git in progress
